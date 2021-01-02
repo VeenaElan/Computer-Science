@@ -1,0 +1,19 @@
+matplotlib important functions
+
+* axis
+* bar
+* barh
+* grid
+* hist
+* pie
+* plot
+* scatter
+* show
+* stem
+* step
+* subplot
+* title
+* xlabel
+* xlim
+* ylabel
+* ylim
